@@ -6,3 +6,5 @@
 Скриншоты из игры:
 ![alt text](http://joxi.ru/a2XVPqGFw7D49r.png)
 ![alt text](http://joxi.ru/Dr8KLXOHopzMgA.png)
+
+На основе уроков от [def1NeX](https://www.youtube.com/channel/UCI1ygKUs7hshsB0bpWoklCQ "")
